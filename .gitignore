@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# IDE (например, PyCharm)
+.idea/
+
+# Текстовые редакторы
+*.swp
+*~
+
+# Отчеты о покрытии кода
+htmlcov/
+
+# Файлы конфигурации
+*.pyc
+*.cfg
+
+# Необходимые файлы для работы с Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Локальные настройки
+.env
